@@ -78,6 +78,7 @@ button {
   top: -3%;
   right: -2%;
 }
+
 .editIcon {
   cursor: pointer;
   position: absolute;
@@ -465,7 +466,7 @@ button {
 
 .categoryListingInfoText {
   font-weight: 500;
-  font-size: 0.85rem;
+  font-size: 0.7rem;
 }
 
 .loadMore {
